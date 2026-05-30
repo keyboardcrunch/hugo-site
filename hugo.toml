@@ -5,6 +5,7 @@ author = 'Adam L'
 #languageCode = 'en-US'
 theme = 'hugo-bearblog'
 enableRobotsTXT = true
+relativeURLs = true
 #sectionPagesMenu = 'main'
 
 # Menu
