@@ -7,7 +7,6 @@ theme = 'hugo-bearblog'
 enableRobotsTXT = true
 #sectionPagesMenu = 'main'
 
-
 # Menu
 [menus]
   [[menus.main]]
@@ -75,3 +74,7 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
