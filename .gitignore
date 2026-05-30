@@ -1,0 +1,13 @@
+# Lock files (npm, yarn, pnpm, Hugo, etc.)
+*.lock
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

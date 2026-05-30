@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>keyboardcrunch</title>
+		<link>http://localhost:36577/</link>
+		<description>Recent content on keyboardcrunch</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 30 May 2026 11:14:51 -0500</lastBuildDate>
+		
+			<atom:link href="http://localhost:36577/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Website Reboot</title>
+				<link>http://localhost:36577/website-reboot/</link>
+				<pubDate>Sat, 30 May 2026 11:14:51 -0500</pubDate>
+				<guid>http://localhost:36577/website-reboot/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Website Migration: Back to Basics&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Over the years, my personal website has undergone multiple iterations. However, content migration between versions has never been a strength of mine. In recent times, maintaining the site has simply lost priority amid other responsibilities.&lt;/p&gt;&#xA;&lt;p&gt;The previous version was built with Deno and deployed on Deno Deploy Classic. With that platform now deprecated, I have opted for a more sustainable approach: a Hugo-based static site hosted on GitHub Pages.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
